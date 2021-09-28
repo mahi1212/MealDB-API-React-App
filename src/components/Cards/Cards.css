@@ -1,0 +1,38 @@
+.cards{
+    padding: .5rem;
+}
+.card{
+    padding: 1rem;
+    border: 1px solid #ccc;
+}
+.img{
+    width: 100%;
+}
+.order-btn{
+    background-color: rebeccapurple;
+    color: #fff;
+    padding: 5px 20px;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+.card-footer{
+    display: flex;
+    justify-content: space-between;
+}
+.icon-div{
+    border-radius: 100px;
+    border: 1px solid #777;
+    color: red;
+}
+.icon-div i{
+    margin-top: 3px;
+    padding: 0 7px;
+    cursor: pointer;
+}
+/* .icon-div i:focus{
+    background-color: red;
+} */
+
+
